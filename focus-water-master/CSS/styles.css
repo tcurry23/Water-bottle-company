@@ -1,0 +1,48 @@
+h3 {
+  font-family: 'DM Serif Display', serif;
+}
+#Title {
+  background-color: #04265A;
+  text-align: center;
+  padding-bottom: 200px;
+}
+.title-text {
+  padding-top: 300px;
+  line-height: 10.5;
+  color: white;
+  font-size: 10rem;
+}
+#bottle-1 {
+    height: auto;
+    width: auto;
+    max-width: 700px;
+    max-height: 700px;
+    text-align: center;
+    ;
+}
+.what-is {
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 500px;
+  margin-left:200px;
+  margin-right: 200px;
+}
+#second-section {
+  background-color: #FCFFF0;
+}
+#flavors {
+  background-color: #04265A;
+  padding-left: -300px;
+}
+#water-pour {
+  height: auto;
+  width: auto;
+  max-width: 700px;
+  max-height: 700px;
+}
+#title-description {
+  font-size: 3rem;
+}
+.title-box {
+  margin-left: 500px;
+}
